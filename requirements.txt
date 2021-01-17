@@ -1,0 +1,5 @@
+# Requirements
+beautifulsoup4==4.9.0
+numpy==1.18.2
+matplotlib==3.3.3
+requests==2.23.0
