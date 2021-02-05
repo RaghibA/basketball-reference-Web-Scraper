@@ -5,4 +5,4 @@ This is just a personal project, and is not for profit. Basketball-reference ple
 
 The program requires beautifulsoup4 and matplotlib to run properly. Use pip to install both packages and then run nbaWebScrap.py [python3].
 
-![alt text]https://i.imgur.com/IKmXenr.jpg
+![alt text](https://i.imgur.com/IKmXenr.jpg)
