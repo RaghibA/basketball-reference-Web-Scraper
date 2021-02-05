@@ -4,3 +4,5 @@ Python3 program utilizing beautifulsoup to scrape basketball-reference.com, and 
 This is just a personal project, and is not for profit. Basketball-reference please don't be mad.
 
 The program requires beautifulsoup4 and matplotlib to run properly. Use pip to install both packages and then run nbaWebScrap.py [python3].
+
+![alt text]https://i.imgur.com/IKmXenr.jpg
