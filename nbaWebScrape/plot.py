@@ -37,3 +37,4 @@ def plot(p1,p2):
     autolabel(rects2, ax)
     fig.tight_layout()
     plt.show()
+

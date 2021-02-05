@@ -127,7 +127,7 @@ def stats(p):
     pl = Player(name)
 
     stats = soup.find('div', {'id': 'all_per_game'})
-    stats = stats.find('div', {'class': 'table_outer_container'}) # name var for player object
+    stats = stats.find('div', {'id': 'div_per_game'}) # name var for player object
     stats = stats.find('tfoot')
     stats = stats.find('tr')
 
@@ -159,4 +159,6 @@ def comp(p1, p2):
     player2.printStats()
 
     #plot
+    print("\nClose graph to continue...")
     p.plot(player1, player2)
+
